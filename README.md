@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Kadam Krishna</h1>
-<h3 align="center">An final year undergrad</h3>
+<h3 align="center">A final year undergrad</h3>
 
 - 📫 How to reach me **krishnakadamwork@gmail.com**
 
