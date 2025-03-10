@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D9BED1&section=header" alt="header"/>
-<a href="https://linkedin.com/in/kadam-krishna-7104a5256"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D9BED1&width=435&lines=Hello%2C+it's+Kadam+Krishna" alt="Typing SVG" /></a>
+<a href="https://linkedin.com/in/kadamkrishna"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D9BED1&width=435&lines=Hello%2C+it's+Kadam+Krishna" alt="Typing SVG" /></a>
 
 <!--
 **kadam-krishna/kadam-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
