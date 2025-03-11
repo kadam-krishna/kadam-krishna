@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D9BED1&section=header" alt="header"/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kadam-krishna.kadam-krishna" />
+
 <h1 align="center">
      <a href="https://linkedin.com/in/kadamkrishna">
           <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&duration=4000&color=D9BED1&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Kadam+Krishna" alt="Typing SVG" />
@@ -76,7 +76,9 @@ Here are some ideas to get you started:
 > [!IMPORTANT]
 > [View/Download my resume](https://cdc.vit.ac.in/public-profile?u_id=e6152ecf2896c027ff5876eddf0aca367a426ba9)
 
-
+<div align="center">
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=kadam-krishna.kadam-krishna" />
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D9BED1&section=footer" alt="footer"/>
 
 <!--
