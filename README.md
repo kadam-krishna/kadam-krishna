@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 </a> -->
 </div>
 
-<h2>⚒️ Languages-Frameworks-Tools i've worked with ⚒️</h2>
+<h2>Languages-Frameworks-Tools I've worked with : </h2>
 <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=java,cpp,mysql,js,c,py,html,css,vscode,github,react,bootstrap,tailwind,git,nodejs,express,firebase,mongodb,vercel,eclipse,notion,redux,anaconda, arduino"/>
-<!-- </div>
-<a href="https://"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></a>
+</div>
+<!-- <a href="https://"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></a>
     <a href="https://"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
     <a href="https://"><img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"></a>
     <a href="https://"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express"></a>
@@ -67,6 +67,9 @@ Here are some ideas to get you started:
   <img src="https://leetcard.jacoblin.cool/krishna_kadam?theme=dark&font=Strait&ext=contest" alt="LeetCode Stats">
 </p>
 
+<!--
+     Oh, hello there, recruiters!
+-->
 
 <h1>$${\color{#D9BED1}Employer?}$$</h1>
 
@@ -79,4 +82,3 @@ Here are some ideas to get you started:
 <!--
      Thanks for being my guest <3
 -->
-_
