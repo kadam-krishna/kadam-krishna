@@ -1,4 +1,4 @@
-_<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D9BED1&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D9BED1&section=header" alt="header"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kadam-krishna.kadam-krishna" />
 <h1 align="center">
