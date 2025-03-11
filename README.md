@@ -70,8 +70,9 @@ Here are some ideas to get you started:
 
 <h1>$${\color{#D9BED1}Employer?}$$</h1>
 
-> [!IMPORTANT]  
-> <a href="https://cdc.vit.ac.in/public-profile?u_id=e6152ecf2896c027ff5876eddf0aca367a426ba9" download>Download my resume</a>
+> [!IMPORTANT]
+> [View/Download my resume](https://cdc.vit.ac.in/public-profile?u_id=e6152ecf2896c027ff5876eddf0aca367a426ba9)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D9BED1&section=footer" alt="footer"/>
 
