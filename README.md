@@ -9,7 +9,7 @@
 <!--
 **kadam-krishna/kadam-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="320">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="280">
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Job Tacker Application.
 - 🌱 I’m currently learning Devops.
 - 😄 Pronouns: He/Him.
-
 <h2>📱 Connect with me📱</h2>
 <div align="center"> 
   <a href="mailto:kirhsnakadamwork@gmail.com">
