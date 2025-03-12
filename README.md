@@ -3,7 +3,7 @@
 
 <h1 align="center">
      <a href="https://linkedin.com/in/kadamkrishna">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&duration=4000&color=D9BED1&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Kadam+Krishna" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&duration=4000&color=D9BED1&width=435&lines=<+Hi+There!+%F0%9F%91%8B+>;</+I'm+Kadam+Krishna+>" alt="Typing SVG" />
      </a>
 </h1>
 <!--
