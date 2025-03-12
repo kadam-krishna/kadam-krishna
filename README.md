@@ -9,7 +9,7 @@
 <!--
 **kadam-krishna/kadam-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="280">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="300">
 
 Here are some ideas to get you started:
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="mailto:kirhsnakadamwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/kadamkrishna" target="_blank">
+  <a href="https://www.linkedin.com/in/kadamkrishna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="link" target="_blank">
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 </div>
 
 <h2>Languages-Frameworks-Tools I've worked with : </h2>
-<br/>
 <div>
     <img src="https://skillicons.dev/icons?i=java,cpp,mysql,js,c,py,html,css,vscode,github,react,bootstrap,tailwind,git,nodejs,express,firebase,mongodb,vercel,eclipse,notion,redux,anaconda, arduino"/>
 </div>
@@ -70,7 +69,7 @@ Here are some ideas to get you started:
      Oh, hello there, recruiters!
 -->
 
-<h1>$${\color{#D9BED1}Employer?}$$</h1>
+<h1>${\color{#D9BED1}Employer?}$</h1>
 
 > [!IMPORTANT]
 > [View/Download my resume](https://cdc.vit.ac.in/public-profile?u_id=e6152ecf2896c027ff5876eddf0aca367a426ba9)
