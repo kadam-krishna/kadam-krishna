@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📖 I’m currently a final year undergrad pursuing B.Tech in Computer Science and Engineering at Vellore Institute of Technology.
 - ⚡ I have a keen interest in programming and technology!
 - 🔭 I’m currently working on a Job Tacker Application.
-- 🌱 I’m currently learning Devops.
+- 🌱 I’m currently learning Java Full Stack.
 - 😄 Pronouns: He/Him.
 <h2>📱 Connect with me📱</h2>
 <div align="center"> 
