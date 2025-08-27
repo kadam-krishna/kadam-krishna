@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <h1>${\color{#D9BED1}Employer?}$</h1>
 
 > [!IMPORTANT]
-> [View/Download my resume](https://cdc.vit.ac.in/public-profile?u_id=e6152ecf2896c027ff5876eddf0aca367a426ba9)
+> [View/Download my resume](https://drive.google.com/file/d/1BbQZ34BNGDkgU6DoMsCFr2rmu0EyuWeE/view?usp=sharing)
 
 <div align="center">
      <img src="https://visitor-badge.laobi.icu/badge?page_id=kadam-krishna.kadam-krishna" />
