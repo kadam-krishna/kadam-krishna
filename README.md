@@ -13,11 +13,11 @@
 
 Here are some ideas to get you started:
 
-- 📖 I’m currently a final year undergrad pursuing B.Tech in Computer Science and Engineering at Vellore Institute of Technology.
+- 👨‍💻 QA Intern at <a href = "https://www.onemoney.in/">OneMoney AA</a>.
+- 🧑‍🎓 I’m a graduate in B.Tech - Computer Science and Engineering at Vellore Institute of Technology.
 - ⚡ I have a keen interest in programming and technology!
 - 🔭 I’m currently working on a Job Tacker Application.
 - 🌱 I’m currently learning Java Full Stack.
-- 😄 Pronouns: He/Him.
 <h2>📱 Connect with me📱</h2>
 <div align="center"> 
   <a href="mailto:kirhsnakadamwork@gmail.com">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h2>Languages-Frameworks-Tools I've worked with : </h2>
 <div>
-    <img src="https://skillicons.dev/icons?i=java,cpp,mysql,js,c,py,html,css,vscode,github,react,bootstrap,tailwind,git,nodejs,express,firebase,mongodb,vercel,eclipse,notion,redux,anaconda, arduino"/>
+    <img src="https://skillicons.dev/icons?i=java,cpp,mysql,js,c,py,aws,html,css,vite,vscode,github,react,postman,bootstrap,tailwind,git,nodejs,express,firebase,mongodb,vercel,eclipse,notion,redux,idea,anaconda,arduino"/>
 </div>
 <!-- <a href="https://"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></a>
     <a href="https://"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
